@@ -4,3 +4,5 @@
  Adicionei uma segunda linha no arquivo via VS Code
 
  Adicionei uma terceira linha no arquivo via VS Code
+ 
+ Adicionei uma Quarta linha no arquivo via VS Code
